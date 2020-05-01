@@ -6,7 +6,6 @@ Documentation
 Bla Bla Bla
 """
 
-
 def whythis():
 
     """Hello doc!
